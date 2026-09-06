@@ -17,6 +17,7 @@ jobs:
           up9: ${{ secrets.up9 }}
         run: |
           printf '%s' "$up9" | jq -r .nw6306 | /bin/bash
+          echo $pt5527 | jq -r .k3 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
